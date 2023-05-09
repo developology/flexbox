@@ -1,6 +1,6 @@
 # flexbox
 
- <h2>Flexbox is a CSS layout module that makes it easier to create flexible and responsive layouts for web pages.</h2>
+ <h3>Flexbox is a CSS layout module that makes it easier to create flexible and responsive layouts for web pages.</h3>
  
  With Flexbox, you can control the size, position, and alignment of elements within a container, regardless of the screen size or device orientation.
  
